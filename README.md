@@ -39,6 +39,7 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 * Tema 9 - Programación Lineal
 * Tema 10 - Cadenas de Markov
 
+**40 horas de video bajo demanda**
 
 ### El itinerario definitivo para convertirte en un experto en ML e IA
 
